@@ -1,3 +1,7 @@
 원숭이도 이해할 수 있는 Git 명령어
 
+<<<<<<< HEAD
 tutorial 2
+=======
+tutorial 1 
+>>>>>>> 670ddcd (commit tutorial 1)
